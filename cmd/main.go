@@ -44,7 +44,7 @@ func userInput() string {
 func main()  {
     menu := `
     +-------------------------------------+
-    |            TODO-MENÜ                |
+    |            TODO-CLI                 |
     +-------------------------------------+
     | 1. Aufgabe hinzufügen               |
     | 2. Alle Aufgaben anzeigen           |
